@@ -1,6 +1,6 @@
 // const person :{name : string , age : number , email : string} = {
 
-//     name : 'ergeg',
+//     name : 'Anu',
 
 //     age : 23,
 
@@ -8,28 +8,24 @@
 
 // }
 
-// create object 
+// create object
 
-type objtype = {
+type obj = {
+  name: string;
 
-    name : string ,
-    
-    age : number ,
-    
-    email : string
+  age: number;
 
-}
+  email: string;
+};
 
-const person :objtype = {
+const person: obj = {
+  name: "Anu",
 
-    name : 'ergeg',
+  age: 23,
 
-    age : 23,
-
-    email : 'ewefed@gmail.com'
-
-}
+  email: "ewefed@gmail.com",
+};
 
 //console.warn(person)
 
-console.log(person.email)
+console.log(person.email);
