@@ -45,3 +45,17 @@ function check () : number
 {
     return a;
 }
+
+// check undefined and null data type function are return
+
+const c = undefined;
+const d = null ;
+
+function fun () : null
+{
+    return  d ;
+}
+
+
+
+
