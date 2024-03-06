@@ -10,8 +10,6 @@
 //]
 //
 
-
-
 // compile file are required use include
 
 //"include" : [
@@ -20,5 +18,3 @@
 //     "interface.ts"
 //     "inner"
 // ]
-
-
