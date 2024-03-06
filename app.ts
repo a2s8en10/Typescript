@@ -1,12 +1,12 @@
-// # Type Alias 
+// # Type Alias
 
-// custom type 
+// custom type
 type User = {
 
     name : string ;
 
     age : number ;
- 
+
     address ?: string ;
 
     phonenumber ?: number ;
@@ -14,7 +14,7 @@ type User = {
 }
 
 
-// use the custom type 
+// use the custom type
 
 const student : User = {
 
