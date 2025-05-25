@@ -74,3 +74,4 @@ class userParam12 {
 
 const userParams1 = new userParam12();
 userParams1.createUser("Arjun", "das");
+
